@@ -1,0 +1,6 @@
+config.txt
+data/
+*.exe 
+
+# data/ folder data akan diabaikan
+# .exe semua file yang extensi .exe akan diabaikan dan masuk ke dalam gitignore
